@@ -1,3 +1,3 @@
-# implement head pose estimation via paddle face landmark detection
+# head pose estimation via paddle face landmark detection
 
-refer to learnopnecv
+refer to learnopencv
